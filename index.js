@@ -11,7 +11,7 @@ var range = document.getElementById("range");
 
 ms.onclick = function() 
 {
-    header.style.backgroundImage = "url(images/image-1.png)";
+    header.style.backgroundImage = "url(image-1.png)";
     model.innerHTML = "Model S";
     speed.innerHTML = "200 mph";
     range.innerHTML = "390 mi";
@@ -19,7 +19,7 @@ ms.onclick = function()
 
 m3.onclick = function() 
 {
-    header.style.backgroundImage = "url(images/image-2.png)";
+    header.style.backgroundImage = "url(image-2.png)";
     model.innerHTML = "Model 3";
     speed.innerHTML = "220 mph";
     range.innerHTML = "410 mi";
@@ -27,7 +27,7 @@ m3.onclick = function()
 
 mx.onclick = function() 
 {
-    header.style.backgroundImage = "url(images/image-3.png)";
+    header.style.backgroundImage = "url(image-3.png)";
     model.innerHTML = "Model X";
     speed.innerHTML = "250 mph";
     range.innerHTML = "490 mi";
@@ -35,7 +35,7 @@ mx.onclick = function()
 
 my.onclick = function() 
 {
-    header.style.backgroundImage = "url(images/image-4.png)";
+    header.style.backgroundImage = "url(image-4.png)";
     model.innerHTML = "Model Y";
     speed.innerHTML = "250 mph";
     range.innerHTML = "500 mi";
